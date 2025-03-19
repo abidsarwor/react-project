@@ -1,0 +1,302 @@
+[
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Imaging Center, Dhanmondi - Branch 1."
+  },
+  {
+    "branchTitle": "Ibn Sina Specialized Hospital, Dhanmondi - Branch 2",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2."
+  },
+  {
+    "branchTitle": "Ibn Sina Specialized Hospital, Dhanmondi - Branch 2",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2."
+  },
+  {
+    "branchTitle": "Ibn Sina Specialized Hospital, Dhanmondi - Branch 2",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2."
+  },
+  {
+    "branchTitle": "Ibn Sina Specialized Hospital, Dhanmondi - Branch 2",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2."
+  },
+  {
+    "branchTitle": "Ibn Sina Specialized Hospital, Dhanmondi - Branch 2",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Specialized Hospital, Dhanmondi - Branch 2."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical Imaging Center, Zigatola - Branch 3",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical Imaging Center, Zigatola - Branch 3",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical Imaging Center, Zigatola - Branch 3",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical Imaging Center, Zigatola - Branch 3",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical Imaging Center, Zigatola - Branch 3",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Medical Imaging Center, Zigatola - Branch 3."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical College Hospital, Kallyanpur - Branch 4",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical College Hospital, Kallyanpur - Branch 4",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical College Hospital, Kallyanpur - Branch 4",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical College Hospital, Kallyanpur - Branch 4",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4."
+  },
+  {
+    "branchTitle": "Ibn Sina Medical College Hospital, Kallyanpur - Branch 4",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Medical College Hospital, Kallyanpur - Branch 4."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Mirpur - Branch 5."
+  },
+  {
+    "branchTitle": "Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6."
+  },
+  {
+    "branchTitle": "Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6."
+  },
+  {
+    "branchTitle": "Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6."
+  },
+  {
+    "branchTitle": "Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6."
+  },
+  {
+    "branchTitle": "Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina D.Lab & Consultation Center, Doyagonj - Branch 6."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Badda - Branch 7."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic & Consultation Center, Uttara - Branch 8."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9."
+  },
+  {
+    "branchTitle": "Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Diagnostic Center Lalbagh Ltd. - Branch 9."
+  },
+  {
+    "branchTitle": "Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10",
+    "patientCareServiceTitle": "Information - Service 1",
+    "desc": "Description for Information - Service 1 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10.",
+    "contactInfo": "Contact info for Information - Service 1 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10."
+  },
+  {
+    "branchTitle": "Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10",
+    "patientCareServiceTitle": "Report Delivery - Service 2",
+    "desc": "Description for Report Delivery - Service 2 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10.",
+    "contactInfo": "Contact info for Report Delivery - Service 2 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10."
+  },
+  {
+    "branchTitle": "Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10",
+    "patientCareServiceTitle": "Customer Care - Service 3",
+    "desc": "Description for Customer Care - Service 3 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10.",
+    "contactInfo": "Contact info for Customer Care - Service 3 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10."
+  },
+  {
+    "branchTitle": "Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10",
+    "patientCareServiceTitle": "Cash Counter - Service 4",
+    "desc": "Description for Cash Counter - Service 4 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10.",
+    "contactInfo": "Contact info for Cash Counter - Service 4 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10."
+  },
+  {
+    "branchTitle": "Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10",
+    "patientCareServiceTitle": "Pharmacy/medicine - Service 5",
+    "desc": "Description for Pharmacy/medicine - Service 5 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10.",
+    "contactInfo": "Contact info for Pharmacy/medicine - Service 5 at Ibn Sina Hospital & Diagnostic Center, Jashore - Branch 10."
+  }
+]
